@@ -567,48 +567,18 @@ Antes eu estava removendo as coisas primeiro agora eu tô fazendo invertida aqui
 175
 00:14:41,400 --> 00:14:42,710
 Então vou voltar aqui.
-
-176
-00:14:43,890 --> 00:14:49,760
 Vou voltar aqui no piso aqui eu vou deixar um espacinho só para eu lembrava colocar isso aqui.
-
-177
-00:14:50,220 --> 00:14:58,730
 Tirar isso daqui isso é isso daqui e aí por fim nome e sobrenome.
-
-178
-00:14:58,950 --> 00:15:04,200
 Vamos voltar aqui para você conseguir ver o código entendeu não colocar o nome entre as chaves aqui
-
-179
-00:15:04,200 --> 00:15:06,830
 no caso nome.
-
-180
-00:15:07,710 --> 00:15:13,400
 E aí o espaço é a mesma coisa e sobrenome que a gente só tá obtendo o valor da variável né no caso o
-
-181
-00:15:13,400 --> 00:15:25,350
 espaço a estrutura tem que ficar igual idade e aí anos lá pesa esse peso e daí a gente finaliza isso
-
-182
-00:15:25,350 --> 00:15:29,900
 daqui estao salvando aqui ficou assim deixa eu fechar essa quebrou você vê o código inteiro.
 
 Posso diminuir um pouco eu acho que ainda vai dar pra você conseguir vê então aqui a gente tem esse
 código completo aqui eu vou Eu vou disponibilizar esse mesmo código aqui na aula pra você dar uma olhada
-
-185
-00:15:42,030 --> 00:15:44,450
 nele caso você tenha necessidade.
-
-186
-00:15:44,580 --> 00:15:47,060
 Acho que precisa guardar esses arquivos aqui.
-
-187
-00:15:47,130 --> 00:15:54,210
 Eu prefiro que você digite ao invés de copiar ao olhar o código aqui porque isso tem muito mais a cabeça
 
 de programador da gente né no caso.
