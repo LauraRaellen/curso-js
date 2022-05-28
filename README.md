@@ -1,2 +1,2 @@
 # curso-js
-## curso desnvolvido por Luiz Otávio Miranda
+## curso desenvolvido por Luiz Otávio Miranda
